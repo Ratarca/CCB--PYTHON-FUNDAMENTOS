@@ -21,17 +21,17 @@ TOPICOS|
 10 - [Modulos e pacotes](-) |
 11 - [Iteradores e geradores](-) |
 12 - [Intro a POO](-)|
-13 - Aprofundando POO |
-14 - Data time |
-15 - Leitura e escrita de arquivos |
-16 - Decoradores |
-17 - Debugando|
-18 - IO e Schedule |
-19 - Execução paralela |
-20 - Testes automatizados|
-21 - Extra: POO vs Funcional|
-[Exercicios /](https://github.com/Ratarca/py2work-ECON/tree/master/1_EXERCICIOS) |
-[Resolucoes /](https://github.com/Ratarca/py2work-ECON/tree/master/2_RESOLUCAO) |
+13 - Aprofundando POO (-)|
+14 - Data time(-) |
+15 - Leitura e escrita de arquivos (-)|
+16 - Decoradores (-)|
+17 - Debugando(-)|
+18 - IO e Schedule (-)|
+19 - Execução paralela (-)|
+20 - Testes automatizados(-)|
+21 - Extra: POO vs Funcional(-)|
+[Exercicios /](-)|
+[Resolucoes /](-) |
 
 ## Bibliografia :book:
 
