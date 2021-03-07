@@ -1,4 +1,4 @@
-# :game_die:CCB--PYTHON-FUNDAMENTOS
+# :game_die:CCB-PYTHON FUNDAMENTOS
 
   Nosso curso de python irá transpassar todos fundamentos para que você possa evoluir e conseguir compreender e utilizar outros repositorios do nosso github. 
   Vale ressaltar que nossos exemplos irão abordar temas práticos como finanças, economia, estatistica entre outros topicos práticos.
